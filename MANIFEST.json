@@ -1,0 +1,17 @@
+{
+  "package": "GITHUB_PROFILE_README_PACKAGE",
+  "author": "Shawn Calvin Snelling",
+  "files": [
+    {
+      "path": "INSTALL_INSTRUCTIONS.md",
+      "sha256": "ab62ed878d4350b38bcc71114aa4897766cdfd03668153fd6c23f429615bd1b7",
+      "size_bytes": 620
+    },
+    {
+      "path": "README.md",
+      "sha256": "8e641e16858f5d51718411d46839398db15a02b3c009fe48ad0ba0ebddaeadd3",
+      "size_bytes": 3810
+    }
+  ],
+  "manifest_sha256": "c84585a618c8da5c8adbb53f74b21c00b0b1ef2d7941074e70d77aafa86ebda7"
+}
