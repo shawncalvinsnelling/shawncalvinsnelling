@@ -1,77 +1,97 @@
 # Shawn Calvin Snelling
 
-Independent researcher and builder of the **AXZ / Axezent AI research ecosystem**.
+Independent researcher and builder of the **AXZ / Axezent AI** public research ecosystem.
 
-I build reproducible research tools for mathematical reduction, verification, rare-event anomaly review, photonic infrastructure telemetry, biomedical timing analysis, microscopy telemetry, airspace telemetry, and AI runtime observability.
+I build open-source verification tools, finite exact certificate repositories, reproducible proof-artifact pipelines, and research-stage engines for classification, reduction, replay, and receipt-backed validation.
 
-My work focuses on one core idea:
+Core idea:
 
 ```text
 classification → reduction → verification → receipt → truth label
 ```
 
-## Core Research Direction
+The goal is not unsupported claims. The goal is to publish public repositories with clear scope, reproducible artifacts, and truth-safe boundaries.
 
-The AXZ ecosystem is built around a disciplined research architecture:
+---
 
-```text
-hard problem
-→ obstruction
-→ classification
-→ finite ledger
-→ bridge test
-→ verification firewall
-→ receipt-backed result
-```
+## Flagship Public Repository
 
-The goal is not to make unsupported claims. The goal is to build systems that organize difficult problems into testable structures with clear truth boundaries.
+### [axz-csl-kernel](https://github.com/shawncalvinsnelling/axz-csl-kernel)
 
-## Main Foundation
+Open-source verification kernel for finite sparse-state trace replay, with reference runtimes, source audits, and enterprise-ready receipt discipline.
 
-### THE LAST REDUCTION — Enterprise Professor Edition
+**Public scope:** finite trace replay under declared local laws.
+**Truth boundary:** does not claim P=NP, RH, universal compression, or global correctness of external solvers.
 
-A professor-grade reduction framework for obstruction classification, Bridge Closure, S4/S7 analysis, and mathematical verification.
+---
 
-Core ideas include:
+## Public Verification Infrastructure
 
-- the 36 Laws of the Last Reduction
-- the 400-Witness Completeness Ledger
-- Shawnion compression S1–S10
-- the S4/S7 final fork
-- the Bridge Inequality
-- the S7 Collapse / No Hidden Middle theorem
-- verification firewall discipline
-- target-problem admissibility mapping
+### [AXZ-ReceiptCI](https://github.com/shawncalvinsnelling/AXZ-ReceiptCI)
 
-Truth boundary:
+Deterministic CI receipt engine that verifies tests, hashes artifacts, and emits reproducible JSON release certificates.
 
-```text
-PROVEN_LOCAL_ABSTRACT_BRIDGE / CANDIDATE_FRAMEWORK / NOT_CERTIFIED_GLOBAL_PROOF
-```
+### [upme-verify-community](https://github.com/shawncalvinsnelling/upme-verify-community)
 
-This framework does **not** claim that all open mathematical problems are solved. It presents a candidate universal reduction architecture and requires target-specific admissibility mapping, verification receipts, and independent review before any solved claim can be made.
+Community Edition of UPME-Verify — an independent verification engine for optimization results and proof artifacts.
 
-## AXZ Research Ecosystem
+### [AXZ-Research-Portfolio](https://github.com/shawncalvinsnelling/AXZ-Research-Portfolio)
 
-### Mathematical Verification
+Public-safe portfolio index for the AXZ / Axezent AI research ecosystem.
 
-- **infinity-reduction-decider** — reduction-based classification engine for scale-stable regimes.
-- **AXEZENT-MSQ-CERTIFIED** — certified 3×3 magic-square generation artifact.
-- **van-der-Waerden-W23** — finite verification artifact.
-- **upme-verify-community** — independent verification engine for optimization results and proof artifacts.
+---
 
-### Scientific Review Engines
+## Public Exact Finite Certificate Repositories
 
-- **SCS Rare Event Reduction Engine** — rare-event anomaly review and truth-labeling engine for particle-physics-style signals.
-- **AXZ BioGate** — research-stage biomarker timing and assay review engine.
-- **SCS Microscope Intelligence Engine** — microscope telemetry, safety, and advisory-control framework.
+These repositories publish exact finite verification artifacts with clear bounded scope.
 
-### Infrastructure and Observability
+### Ordered digit / arithmetic certificate artifacts
 
-- **AXEZENT-LinkOS** — topology-aware telemetry for photonic-electronic AI infrastructure.
-- **AXZ SkyGrid** — defensive UAS telemetry, anomaly detection, incident replay, and evidence-chain simulation prototype.
-- **AI Runtime Observability and Stabilization Platform** — AI runtime telemetry, anomaly detection, replay, and stabilization research.
-- **AXZ Photonic Intelligence** — spectral-geometric AI and photonic routing/coherence research platform.
+* [AXZ-Forward-NoDivision-0123456789](https://github.com/shawncalvinsnelling/AXZ-Forward-NoDivision-0123456789)
+* [AXZ-Reverse-NoDivision-9876543210](https://github.com/shawncalvinsnelling/AXZ-Reverse-NoDivision-9876543210)
+* [AXZ-Hexadecimal-Base16-Ring-V1](https://github.com/shawncalvinsnelling/AXZ-Hexadecimal-Base16-Ring-V1)
+* [AXZ-Palindromic-Byte-12488421](https://github.com/shawncalvinsnelling/AXZ-Palindromic-Byte-12488421)
+* [AXZ-Asymptotic-Gap-Frontier-V1](https://github.com/shawncalvinsnelling/AXZ-Asymptotic-Gap-Frontier-V1)
+
+### Number-sequence certificate artifacts
+
+* [AXZ-Fibonacci-Digit-1123581321](https://github.com/shawncalvinsnelling/AXZ-Fibonacci-Digit-1123581321)
+* [AXZ-Factorial-Digit-12624120](https://github.com/shawncalvinsnelling/AXZ-Factorial-Digit-12624120)
+* [AXZ-Square-Digit-149162536](https://github.com/shawncalvinsnelling/AXZ-Square-Digit-149162536)
+* [AXZ-Cube-Digit-182764125](https://github.com/shawncalvinsnelling/AXZ-Cube-Digit-182764125)
+* [AXZ-Triangular-Digit-136101521](https://github.com/shawncalvinsnelling/AXZ-Triangular-Digit-136101521)
+* [AXZ-Pentagonal-Digit-1512223551](https://github.com/shawncalvinsnelling/AXZ-Pentagonal-Digit-1512223551)
+* [AXZ-Hexagonal-Digit-1615284566](https://github.com/shawncalvinsnelling/AXZ-Hexagonal-Digit-1615284566)
+
+---
+
+## Public Math / Verification Artifacts
+
+### [AXEZENT-MSQ-CERTIFIED](https://github.com/shawncalvinsnelling/AXEZENT-MSQ-CERTIFIED)
+
+Certified parametric generator for all 3×3 magic squares.
+
+### [van-der-Waerden-W23](https://github.com/shawncalvinsnelling/van-der-Waerden-W23)
+
+Certified finite verification artifact for W(2,3).
+
+### [infinity-reduction-decider](https://github.com/shawncalvinsnelling/infinity-reduction-decider)
+
+Reduction-based classification engine for scale-stable regimes.
+
+---
+
+## Other Public Repositories
+
+### [AIAdvancedFrequencies](https://github.com/shawncalvinsnelling/AIAdvancedFrequencies)
+
+Public HTML project repository.
+
+### [highlight](https://github.com/shawncalvinsnelling/highlight)
+
+Fork of highlight.io, an open-source monitoring platform.
+
+---
 
 ## Research Principles
 
@@ -79,27 +99,38 @@ This framework does **not** claim that all open mathematical problems are solved
 No claim without a receipt.
 No global proof without admissibility mapping.
 No solved label without verification.
-No hidden middle between decay and structured recurrence.
+No hidden middle without a checked bridge.
 ```
+
+---
 
 ## What I Build
 
-I create research-stage systems that combine:
+I create public research-stage systems that combine:
 
-- mathematical reduction
-- finite verification
-- anomaly classification
-- telemetry analysis
-- reproducibility workflows
-- evidence-chain logic
-- truth-label discipline
-- GitHub-ready research packages
+* mathematical reduction
+* finite verification
+* exact certificate generation
+* reproducibility workflows
+* evidence-chain logic
+* source audits
+* receipt-backed releases
+* GitHub-ready research packages
+
+---
 
 ## Current Status
 
-The AXZ ecosystem is an active research and software-development portfolio.  
-Some repositories are public verification artifacts. Others are private research prototypes under controlled development.
+The AXZ / Axezent AI ecosystem is an active public software and research portfolio.
+
+Some repositories are exact finite verification artifacts.
+Some are infrastructure tools for receipts, audits, and reproducible releases.
+Some are research-stage engines with clearly stated truth boundaries.
+
+---
 
 ## Contact
 
 GitHub: [@shawncalvinsnelling](https://github.com/shawncalvinsnelling)
+
+Enterprise / collaboration contact: [axezentai@Gmail.com](mailto:axezentai@Gmail.com)
