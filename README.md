@@ -1,286 +1,332 @@
 # Shawn Calvin Snelling
 
-Independent researcher and builder of the **AXZ / Axezent AI verification ecosystem**.
+**AXEZENT · AXZENTAI · Independent Research & Creative Development**
 
-I develop open-source systems for:
+**Mathematics · Artificial Intelligence · Computer and Software Security · Scientific Computing · Engineering and Invention · Music and the Arts**
 
-* Mathematical verification
-* Deterministic receipts
-* Proof-audit workflows
-* Reproducible research artifacts
-* Trace replay and validation
-* Finite certificate generation
-* Structured evaluation frameworks
+*Independent researcher, mathematical author, software developer, inventor, and musician based in Nebraska.*
+
+[**Research Atlas**](https://github.com/shawncalvinsnelling/axz-research-atlas) · [**Research Website**](https://shawncalvinsnelling.github.io/axz-research-atlas/) · [**Full Biography**](#complete-intellectual-biography) · [**Public Repositories**](https://github.com/shawncalvinsnelling?tab=repositories) · [**Contact**](#contact-and-collaboration)
 
 ---
 
-# Featured Links
+## About Shawn Calvin Snelling
 
-### 🌐 AXZ Research Atlas (Start Here)
+Shawn Calvin Snelling, who creates music under the name **AXEZENT** and develops a multidisciplinary research portfolio under **AXZENTAI**, works across mathematical investigation, software engineering, artificial-intelligence architecture, cybersecurity, scientific modeling, invention, and the creative arts. He approaches different problems through a recognizable combination of conceptual exploration and inspectable evidence: define the question, examine possible explanations, construct a method, and preserve the means by which an interested reader or researcher can evaluate the result.
 
-Repository:
+This GitHub profile is the front door to two complementary parts of that record. The **complete intellectual biography** tells the human and scientific story in detail. The **AXZ Research Atlas and the linked repositories** provide an index to source code, finite certificates, manuscripts, prototypes, experiments, and reproductions. The two belong together: one explains *why the work matters*; the other shows *what is available to inspect*.
 
-https://github.com/shawncalvinsnelling/axz-research-atlas
+His work includes research in representation theory, algebraic combinatorics, exact proof checking, finite graph certificates, artificial-general-intelligence and conscious-interface architectures, autonomous-system governance, Windows endpoint and software security, post-quantum readiness, optical sensing, quantum transport, computational chemistry, scientific instrumentation, structural mechanics, practical product design, industrial review software, composition, and sound production. Individual projects occupy different stages—published repositories, runnable research software, manuscript studies, experimental proposals, and early-stage inventions—and the material in each project supplies its relevant evidence.
 
-Website:
+## What I Build
 
-https://shawncalvinsnelling.github.io/axz-research-atlas/
+The work below is not one application or one scientific claim. It is a collection of mathematical artifacts, executable tools, research methods, physical-design investigations, and creative productions. The most useful way to understand it is by the problems each group of projects addresses.
 
-The AXZ Research Atlas is the central public index for the entire AXZ ecosystem.
+| Field | What the work is designed to do | Selected examples |
+| --- | --- | --- |
+| **Mathematics and proof engineering** | Investigate algebraic and combinatorial structures; construct exact finite witnesses; formalize local lemmas; test conjectured identities and inequalities with reproducible certificates. | [Higher-Lie Research Program](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-Research-Program), [Type-C Exact-κ](https://github.com/shawncalvinsnelling/axezent-opac016-type-c-exact-kappa), [Verified Mathematics Atlas](https://github.com/shawncalvinsnelling/AXEZENT-AI-Verified-Mathematics-Atlas) |
+| **Verification and evidence infrastructure** | Replay finite traces, validate declared rules, record test environments and file hashes, and connect results to checkable software or mathematical receipts. | [AXZ-CSL Kernel](https://github.com/shawncalvinsnelling/axz-csl-kernel), [Cognitive Trace Replay](https://github.com/shawncalvinsnelling/axezent-ai-ctr-kernel), [ReceiptCI](https://github.com/shawncalvinsnelling/AXZ-ReceiptCI), [Library of Verified Things](https://github.com/shawncalvinsnelling/axezent-library-of-verified-things) |
+| **Artificial-intelligence systems** | Explore specialized and general-purpose AI architectures, memory integrity, knowledge organization, task decomposition, language interfaces, research orchestration, and human oversight. | Dr. Shawn AI / AXZENTAI architecture; AGI, ACI, and ASI research concepts; [AI Workflow Replay Recorder](https://github.com/shawncalvinsnelling/AXZ-AI-Workflow-Replay-Recorder) |
+| **Computer, endpoint, and AI-agent security** | Investigate protective software for Windows computers, software integrity, unauthorized changes, approval of AI actions, prompt-injection containment, policy checks, and auditable automation. | AXEZENTAI Firewall; [Agent Audit Firewall](https://github.com/shawncalvinsnelling/AXZ-Agent-Audit-Firewall); [AI Action Approval Kernel](https://github.com/shawncalvinsnelling/AXZ-AI-Action-Approval-Kernel) |
+| **Cryptography and software supply chains** | Identify cryptographic dependencies, organize transition planning for post-quantum algorithms, and improve provenance and dependency review. | [PQC Migration Readiness Scanner](https://github.com/shawncalvinsnelling/AXZ-PQC-Migration-Readiness-Scanner), [SBOM Risk Reduction Engine](https://github.com/shawncalvinsnelling/AXZ-SBOM-Risk-Reduction-Engine) |
+| **Physics, scientific instruments, and chemistry** | Design phase-sensitive diagnostics, analyze modeled quantum-transport sidebands, examine microscope drift and metadata, and formulate reproducible computational experiments. | [AXEZENT-ABX-001](https://github.com/shawncalvinsnelling/AXEZENT-ABX-001), [Microscope Analysis](https://github.com/shawncalvinsnelling/AXZ-Microscope-Analysis), optical-metasurface and molecular-reference studies |
+| **Computing architectures and networks** | Investigate sparse logical addressing, topology-aware networking, photonic-computing concepts, symbolic compilation, and the practical representation of large state spaces. | NODES; [AXEZENT LinkOS](https://github.com/shawncalvinsnelling/AXEZENT-LinkOS), [AXZ Photonic Intelligence](https://github.com/shawncalvinsnelling/shawncalvinsnelling-AXZ-Photonic-Intelligence), [Resonance SRC](https://github.com/shawncalvinsnelling/resonance-src) |
+| **Engineering and invention** | Model loads, tolerances, materials, geometric structures, environmental devices, consumer products, and feasible measurement plans for physical prototypes. | SpineZero-X; geometric lattice studies; solar-energy, atmospheric-water-harvesting, and optical-sensing concepts |
+| **Operational and commercial software** | Develop evidence-based tools for routing decisions, foundry invoicing and credits, industrial review, anomaly analysis, and reproducible decision support. | [Robust Shortest Path Verifier](https://github.com/shawncalvinsnelling/AXEZENT-Robust-Shortest-Path-Verifier), [Foundry Replayer](https://github.com/shawncalvinsnelling/AXEZENT-Foundry-Replayer), [VARE Rail Review](https://github.com/shawncalvinsnelling/vare-rail-review) |
+| **Music, audio engineering, and creative media** | Produce original hip-hop and orchestral compositions; study timing, timbre, sound placement, psychoacoustics, and tools for digital composition and performance. | [AXEZENT Beats for Sale](https://github.com/shawncalvinsnelling/AXEZENT-Beats-for-Sale), [PureTone Bridge](https://github.com/shawncalvinsnelling/AXZ-PureTone-Bridge-VST3), *The Radiant Atlas*, *AI Advanced Frequencies* |
 
-It organizes all work into explicit truth categories:
+The projects are not all equally mature, and a design brief is different from a tested program or a laboratory result. Each linked repository or manuscript should be read according to its own stated specifications, assumptions, and reproducibility materials.
 
-* PROVED
-* FINITE_PROVED
-* CANDIDATE
-* BLOCKED
+## AXZ Research Atlas — Start Here
 
-and serves as the authoritative truth ledger for the project.
+**[Open the AXZ Research Atlas repository](https://github.com/shawncalvinsnelling/axz-research-atlas)**  
+**[Open the research website](https://shawncalvinsnelling.github.io/axz-research-atlas/)**
 
----
+The **AXZ Research Atlas** is the central public index for the AXZENTAI verification ecosystem. It brings together finite mathematical scans, source-controlled proof-audit projects, candidate lemmas, exact certificates, trace replay, verification receipts, and documentation. It was built to make an expansive research program navigable without confusing the existence of a calculation or software package with a broader scientific conclusion.
 
-# Core Principle
+The Atlas organizes the evidence behind research claims with defined scopes and status labels such as `PROVED`, `FINITE_PROVED`, `CANDIDATE`, and `BLOCKED`. Its practical principle is simple: **a claim should point to something identifiable that another person can examine**—a theorem and proof, a finite witness, an executable checker, a versioned test result, or a clearly defined research question. These distinctions make the Atlas useful for researchers, reviewers, engineers, and readers who want to follow the work beyond a project title.
 
-```text
-classification
-    ↓
-reduction
-    ↓
-verification
-    ↓
-receipt
-    ↓
-truth label
-```
+Historically, one thread of its modular-combinatorial program traces a path from Lucas-style parameterizations and `24k+1` primitive compression to modulo-240 survivor lattices, Chinese remainder theorem survivor spaces, centered difference graphs, additive-diamond obstructions, and finite graph sweeps. Other Atlas entries concern arithmetic constructions, graph coloring, trace verification, software release receipts, and structured research audits. These are individual research trails, not substitutes for a project's underlying proof or source code.
 
-The objective is not unsupported claims.
+### Selected public work to explore
 
-The objective is to build public repositories with:
+| Area | Repository | What a visitor will find |
+| --- | --- | --- |
+| Research navigation | [AXZ Research Atlas](https://github.com/shawncalvinsnelling/axz-research-atlas) | Central index, project status categories, candidate work, exact finite results, and links to evidence. |
+| Representation theory | [Higher-Lie Research Program](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-Research-Program) | Linked R4/R6/R8/R12/R16/4Z work, manuscript revisions, and precise proof-scope tracking. |
+| Analytic number theory | [Detector-Gated Dirichlet Polynomials](https://github.com/shawncalvinsnelling/AXEZENT-Detector-Gated-Dirichlet-Polynomials) | Finite-grid witness arguments, source manuscript, certificate specification, and reproducibility records. |
+| Formal finite verification | [AXZ-CSL Kernel](https://github.com/shawncalvinsnelling/axz-csl-kernel) | Exact sparse-state trace replay, Lean source, and reference checking materials. |
+| AI-output verification | [Cognitive Trace Replay](https://github.com/shawncalvinsnelling/axezent-ai-ctr-kernel) | Policy packs, trace receipts, deterministic compliance checks, and examples. |
+| Build provenance | [AXZ ReceiptCI](https://github.com/shawncalvinsnelling/AXZ-ReceiptCI) | Reproducible software test and source-hash certificates. |
+| Applied exact optimization | [Robust Shortest Path Verifier](https://github.com/shawncalvinsnelling/AXEZENT-Robust-Shortest-Path-Verifier) | Exact certificates and counterexamples for routing under specified uncertain costs. |
+| Quantum-transport analysis | [AXEZENT-ABX-001](https://github.com/shawncalvinsnelling/AXEZENT-ABX-001) | Run-ready reduced-model diagnostics, synthetic data, test programs, and scientific documentation. |
+| Defensive security | [PQC Migration Readiness Scanner](https://github.com/shawncalvinsnelling/AXZ-PQC-Migration-Readiness-Scanner) | Code and configuration review aimed at identifying legacy cryptographic dependencies. |
+| Creative software | [AXEZENT Beats for Sale](https://github.com/shawncalvinsnelling/AXEZENT-Beats-for-Sale) | Original-instrumental storefront project and its associated website assets. |
 
-* clear scope
-* reproducible artifacts
-* deterministic verification
-* transparent truth boundaries
-
----
-
-# Current Research Status
-
-## Active Areas
-
-### Verification Infrastructure
-
-* AXZ Research Atlas
-* AXZ-ReceiptCI
-* AXZ CSL Kernel
-* AXZ CTR Kernel
-* PRK Fuzzer
-* Poly Reduce Kernel
-* Verification dashboards
-* Receipt generation systems
-
-### Mathematical Verification
-
-* Defect Homology Theory
-* Modular Compression Gates
-* Graph Obstruction Frameworks
-* Finite Certificate Repositories
-* Candidate Lemma Discovery
-* Proof-Audit Systems
-
-### Research Engineering
-
-* Reproducibility workflows
-* Trace replay systems
-* Deterministic verification pipelines
-* Evidence-chain logic
-* Source audits
-* Release receipts
+The wider [GitHub repository collection](https://github.com/shawncalvinsnelling?tab=repositories) contains additional mathematical certificates, AI-governance projects, scientific software, engineering research, and creative development.
 
 ---
 
-# Current Mathematical Focus
+<a id="complete-intellectual-biography"></a>
 
-The strongest current mathematical lane is:
+## Complete Intellectual Biography
 
-```text
-Lucas parameterization
-    ↓
-24k+1 primitive compression
-    ↓
-Modulo-240 survivor lattices
-    ↓
-CRT survivor spaces
-    ↓
-Centered difference graphs
-    ↓
-Additive-diamond obstruction theory
-    ↓
-Finite graph sweeps
-```
+*The following is the full, preserved long-form intellectual biography, organized as a continuous science-journalism narrative. The GitHub sections above provide direct links and navigation; the biography below provides the context and personal trajectory.*
 
-Current status:
+**An Intellectual Biography**
 
-```text
-FINITE_VERIFICATION_PROVED
-GLOBAL_PROBLEM_UNRESOLVED
-```
+*Mathematics, artificial intelligence, computer security, scientific inquiry, engineering, music, and the arts*
+
+There is a particular kind of intellectual ambition that begins not with a subject, but with a question about method: how can an idea be made precise enough to test? That question travels through the work of **Shawn Calvin Snelling**, an independent researcher, mathematical author, inventor, software developer, and musician who creates under the name **AXEZENT**. Founder of the independent AXEZENT AI Research Lab and based in Falls City, Nebraska, with personal roots in Omaha and formative years in Portland, Oregon, and Las Vegas, Nevada, he has developed a wide-ranging body of research and creative projects that resists conventional disciplinary boundaries.
+
+A mathematical inequality, a computer-security alert, a scientific measurement, an engineering design, and a musical arrangement appear to demand different kinds of judgment. For Snelling, they also pose a common challenge: each begins with possibilities that must be selected, organized, and tested against reality. This recurring concern has shaped his investigations into combinatorics and formal proof, artificial-intelligence systems, cybersecurity for computers and software, preparation for post-quantum cryptography, scientific instrumentation, photonics, quantum transport, structural engineering, industrial analytics, and audio production.
+
+His projects take many forms. Some are public software repositories containing source code, tests, and reproducibility materials. Others are mathematical manuscripts, bounded computational certificates, research-software packages, experimental protocols, architectural studies, or invention concepts. Together they constitute a substantial intellectual record, though not a single undifferentiated class of achievement. The meaningful question is not how many titles appear in the archive. It is what each project was built to investigate, what it produced, and why its underlying question matters.
+
+This is also a story about an unconventional research identity. Snelling moves between the roles of investigator, designer, programmer, author, and musician. Rather than confining himself to a laboratory discipline or commercial category, he returns to the practical work of forming a clear problem, devising a structure through which to approach it, and finding a way to communicate the result. His independent research program, **AXZENTAI**, provides the central thread connecting those pursuits.
+
+### A research philosophy takes shape
+
+The most revealing feature of Snelling's work is not its breadth alone, but the recurring distinction between *finding a promising answer* and *establishing that the answer can withstand examination*. A generative system may suggest a mathematical identity, a useful route, a scientific mechanism, or an attractive device. A separate procedure must determine whether the proposal meets the conditions that make it defensible. Snelling has returned to this separation in mathematical software, agent governance, security engineering, and operational decision tools.
+
+Within AXZENTAI, this idea can be described as a **core architectural paradigm**: open-ended exploration supplies candidate structures; explicitly specified checks evaluate them; supporting evidence records what was actually tested. The verification layer may consist of exact arithmetic, a finite-state replay, a formal theorem statement, a consistency test, a physical measurement, a comparison against known data, or a human approval requirement. The form changes with the discipline, while the intellectual discipline remains recognizable.
+
+That paradigm is especially important in work involving artificial intelligence. Fluency is not a proof, and a convincing diagram is not a functioning machine. Snelling's research tools therefore give considerable attention to the information between an initial proposal and a finished conclusion: assumptions, definitions, source versions, counterexamples, permissions, reproducible tests, and records of what changed. His mathematical-receipt systems are an unusually concrete expression of this preference. They treat a result not as a sentence to be believed, but as a claim whose evidence can be examined again.
+
+The same sensibility appears in the visual and sonic arts, though in a different register. A beat is not finished merely because a loop exists; spatial balance, phrasing, rhythmic anticipation, sound selection, and listener response determine whether it works as music. A mechanical sketch is not validated by its appearance; loads, tolerances, materials, and fabrication constraints decide whether the design deserves to advance. Across these fields, Snelling's work reflects an effort to carry imagination through an increasingly exacting sequence of decisions.
+
+### The ambition of AXZENTAI
+
+AXZENTAI, also described as AXEZENT AI, is the umbrella for Snelling's research into intelligent software, mathematical analysis, scientific investigation, invention development, and creative production. It is more accurately understood as a connected research-and-development ecosystem than as one finished universal AI. Its constituent projects include conversational applications, specialized calculation engines, proof-checking tools, knowledge structures, protective software, experimental models, and designs for coordinating them.
+
+The breadth of this program grew from an interest in how very different kinds of knowledge might be combined without losing their particular meanings. Language can help generate an idea, but mathematics supplies formal constraints. A simulation can map consequences, but evidence from the physical world is required for empirical claims. A software agent may assemble a proposal, but a governance layer determines which actions it is permitted to take. In this architecture, integration is valuable precisely because specialized functions are not all treated as interchangeable.
+
+Snelling's named **Dr. Shawn AI** framework organizes research objectives into smaller tasks and gives practical direction to AI-assisted work in mathematics, software, engineering, business, scientific writing, and music. **Agent S** represents a distinct investigation-oriented workflow, emphasizing exact claims, counterexample searches, bounded experiments, and evidentiary review. The **TERMINATOR** and **UNBREAKABLE** lines concentrate on protection, resilience, authorization, and integrity. Other design programs—including ALL AI, Omni AI, S AI, ALOSAI, Guardian AI, and the Infinity Research Engine—record different approaches to research coordination, system organization, and sustained technical exploration. Their names describe distinct lines within the historical program, not necessarily separate deployed intelligence models.
+
+Within the larger Genesis architecture, Snelling explored several well-known and speculative directions in advanced artificial intelligence. **Artificial General Intelligence (AGI)** appears as the ambition to integrate reasoning across domains. The **Artificial Conscious Interface (ACI)** concerns sustained interaction, identity handling, memory continuity, and human guidance. **Artificial Superintelligence (ASI)** appears as a research direction concerned with recursive improvement, increasingly capable problem-solving, and the scrutiny of successive computational results. The broader work also considers language construction, pattern recognition, semantic organization, self-evaluation, knowledge retrieval, simulation, creative generation, and recovery mechanisms.
+
+These explorations have a practical counterpart. A documented AXEZENT conversational application combines multi-turn interaction, subject routing, mathematical tools, retrieval interfaces, creative functions, and a stored-context architecture using append-only and hash-linked records. An archived Version 20 codebook reports 64 first-party source files, 9,723 lines of code, and 45 passing bounded tests at the time of that release. Those figures describe a recorded development snapshot. More important than the counts is the software's intended integration of conversation with specialized functions and inspectable records.
+
+Snelling also developed the **A–Z Knowledge Atlas**, formula and theorem indexes, research maps, and related language-logic concepts to organize large spaces of definitions, relationships, algorithms, and possible invention pathways. The Genesis design registry contains hundreds of named modules, but the significance of that catalog for his biography lies in its scope: a sustained effort to imagine how a modular system might connect research, memory, prediction, science, design, communication, and artistic creation. A module name is an architectural description; the implemented programs, exact certificates, and documented tests provide the concrete record of what the program has achieved.
+
+### Making mathematical reasoning inspectable
+
+Mathematics forms one of the deepest and most persistent strands of Snelling's work. He has investigated problems in combinatorics, number theory, representation theory, polynomial inequalities, finite geometry, root systems, graph theory, optimization, and formal verification. His interests range from tightly bounded numerical identities to difficult structural questions that have inspired generations of mathematicians. Across the portfolio, the distinctive emphasis is on preserving enough of the reasoning that a claim can be checked rather than merely repeated.
+
+One project family, **ATRM**, investigates how logical or combinatorial problems can be transformed into more structured representations, sometimes involving matrices and finite candidate sets. The crucial question is whether a reduced representation retains every candidate necessary to justify the original conclusion. Work on finite retained-set validation, upper-envelope bounds, witness preservation, and counterexample generation addresses that requirement. In other words, a computational shortcut is only useful as an exact method when it can account for the cases it leaves behind.
+
+The **Classical Simulation Layer (CSL)** supplies a complementary perspective. Its finite trace-checking work examines a submitted sequence of transformations against specified local rules and a stated decoding relation. Rather than having to trust an entire opaque computation, a checker can replay defined steps using exact arithmetic. The associated AXZ-CSL Kernel includes a reference runtime, formalization sources in Lean, and a Rust-oriented implementation scaffold. These are architectural and software artifacts for a particular checking problem, not claims that every possible mathematical search can be abbreviated.
+
+A related family of tools makes evidence itself a first-class research object. **ReceiptRail AI** and **ReceiptCI** organize input hashes, source versions, test results, claim identifiers, parent receipts, and reproducibility records. The **Cognitive Trace Replay Kernel (CTR)** checks whether a computational receipt conforms to declared rules and evidence boundaries. The **Poly-Reduce Kernel (PRK)** examines finite instances of the classical reduction from 3SAT to CLIQUE, while the **PRK Fuzzer** supplies difficult or deliberately malformed cases to challenge its checker. The **Library of Verified Things** and related proof atlases preserve checkable mathematical artifacts within a common documentary framework.
+
+This collection explains the mathematical “receipts” that appear so often in Snelling's research. The receipt is neither a printed award nor an automatic mathematical endorsement. It is a record connecting a precisely stated claim to the inputs, computations, tests, and software versions associated with that claim. A successful replay can establish exactly what the specified checker verifies. Snelling's insistence on retaining such records creates a durable boundary between proposing a result and substantiating it.
+
+His work in sparse representation and logical addressing pursues another aspect of the same computational problem: how to navigate enormous possibility spaces without materializing every possible object. The **NODES** framework assigns structured positions to equations, configurations, exceptions, transformations, or proof obligations. One 64-bit layout combines 2,048 shells, 65,536 channels per shell, and 137,438,953,472 possible leaf positions per channel, yielding exactly 18,446,744,073,709,551,616 representable addresses. That is an addressing capacity, not a claim that a physical machine holds that number of independently stored states.
+
+Related O(1)-style designs examine constant-time operations on fixed-width addresses, localized telemetry, canonicalized inputs, and sparse updates. They distinguish the efficiency of a particular lookup or encoding operation from the computational difficulty of a larger problem. Snelling also examined relativistic or observer-time computing thought experiments and their relationship to combinatorial optimization. These investigations raise questions about representation and physical resources without confusing altered observation time with the elimination of logical work.
+
+### From finite certificates to structural mathematics
+
+Snelling's research on **Higher Lie characters** offers a case study in moving from extensive computation toward general mathematical structure. The program studies coefficient sequences associated with hook-character polynomials, particularly their unimodality and log-concavity. Unimodality concerns the rise and fall of a sequence; log-concavity concerns inequalities between adjacent coefficients. Both can reveal deep regularities in algebraic and combinatorial objects.
+
+The work extends through the R4, R6, R8, R12, R16, and 4Z families and includes the **Six-Cycle Insertion and Hook-Unimodality** line. Across these projects, Snelling developed or assembled exact coefficient formulas, insertion constructions, symbolic tests, reflected coefficient analyses, finite-sufficiency strategies, and certificate-replay packages. Some project records report checked declarations in Lean and exact algebraic certificates for bounded parameter ranges. The larger aim is conceptual: to find arguments capable of explaining entire families, rather than treating each successful numerical case as an isolated event.
+
+His **Type-C exact-κ** investigations and the **Green–Schur root-polytope projection** program explore a different mathematical landscape: root systems, inverse Cartan matrices, projection bounds, and matrix inequalities. In the latter work, local comparisons involving highest-root coefficients, inverse positivity, and Schur complements are assembled toward a geometrical statement about root polytopes. The research record includes exact computational audits, manuscript revisions, and careful attention to conventions for non-simply-laced root systems. The Type-C work and the wider Green–Schur program are distinct mathematical undertakings, each with its own statements and supporting materials.
+
+Other areas highlight Snelling's affinity for finite constructions. His **Ramsey R(3,3)=6** package supplies a reproducible certificate for a classical theorem: an explicit two-coloring establishes the lower bound, while the 32,768 possible edge two-colorings of the complete graph on six vertices can be exhaustively checked for the upper bound. The value of that project lies in the explicit computational demonstration and accompanying verification materials, not in claiming first discovery of the theorem. Related repositories examine Schur-number configurations, van der Waerden-style problems, and other finite combinatorial witnesses.
+
+His number-theory and arithmetic projects have considered Fibonacci and factorial patterns, powers, digit sequences, palindromic and reverse constructions, hexadecimal arithmetic, and triangular, pentagonal, and hexagonal numbers. His work on the **magic square of squares** combines algebraic parameterization with modular restrictions, Chinese-remainder survivor spaces, and graph-based obstruction analysis. The point is to understand which configurations survive a sequence of necessary conditions and what relations remain to be established among them.
+
+The concept of a *defect* provides another recurrent lens. In the **AXZ Defect Homology Theory** and related work, a defect can represent a failed compatibility condition, an unresolved residual, a counterexample, or a gap between a provisional model and the conditions of a theorem. Related investigations into spectral entropy sharpened this distinction: low spectral entropy may suggest a compact representation, but it cannot by itself guarantee that a discarded candidate is harmless to an unrelated objective. The counterexample-driven refinement of that idea illustrates how mathematical progress can include finding the exact limits of an appealing shortcut.
+
+Snelling has also directed sustained investigations toward the **Riemann Hypothesis**, **Navier–Stokes existence and smoothness**, mathematical complexity, and other foundational problems. His work on arithmetic cancellation examines Möbius and Mertens sums, spectral and phase-based formulations, conditional bounds, and detector-gated Dirichlet polynomials. His fluid-dynamics studies examine dyadic energy transfer, dissipation, concentration, and the propagation of estimates across scales. In complexity and optimization, he investigates reductions, formal witness conditions, and the relationship between efficient verification and efficient search. The concrete contribution of these programs is best understood through their stated lemmas, computational experiments, research manuscripts, and exact proof obligations—not through sweeping claims about the broader problems that motivated them.
+
+In a related number-theoretic line, Snelling has explored Fourier transforms of discrete arithmetic data, additive character sums, and the relationship between spectral energy and variations across residue classes. His research notes use hatted variables for transformed quantities and discuss an **Additive Conductor Energy Identity** as part of this program. The work connects harmonic analysis with his broader investigation of arithmetic cancellation and the structure of mathematical estimates.
+
+### The written record: monographs, atlases, and research manuscripts
+
+Snelling's technical publications are integral to the research rather than supplementary presentation material. His illustrated monograph **The Last Reduction — Enterprise Professor Edition** develops an obstruction-classification framework and conditional bridges intended to clarify how a complicated proof attempt might be reduced to explicit requirements. **The Sphere, the Gap, and the Code** investigates geometric clearance, tangency, and routing around an obstacle in higher-dimensional box geometry; its companion **AXZ DefectLab** connects geometric claims with machine-readable checks and formalization efforts.
+
+Among his specialized manuscripts are **Six-Cycle Insertion, an Exact Log-Concavity Threshold, and Hook-Unimodality in Higher Lie Characters**; **Detector-Gated Bounds for Multi-Band Dirichlet Polynomials**; and **A Uniform Green–Schur Proof of the Root-Polytope Projection Bound**, the last representing the research program's proposed proof approach. These works contain different mixtures of arguments, computational evidence, formalization, diagrams, and proposed extensions. Their significance for a biographical account is the sustained attempt to turn ambitious questions into written mathematical objects that readers can evaluate line by line.
+
+The Dirichlet-polynomial research also contains a specifically titled manuscript section, **“Section XVIII. A Symbolic Closure Program: Abel Summation, Weyl-Orbit Transport, Shadow Dilation, and Interior Slack.”** Its focus is the interaction of discrete Abel summation, Weyl-orbit transport identities, shadow-comparison estimates, and the distinction between global and interior slack. The section records a structured program for relating finite certificates to symbolic inequalities, with the status of each statement governed by its supporting derivation.
+
+The **AXZ Research Atlas**, **Verified Mathematics Atlas**, mathematical-retrieval tools, and proof-search experiments serve a related purpose. They organize definitions, known results, candidate statements, code, test cases, dependency graphs, and results according to their supporting evidence. Research into retrieval quality distinguishes shared vocabulary from a genuinely relevant theorem: a lemma may mention the right mathematical objects yet fail to provide the hypothesis needed by the target problem. Graduate-level formal-proof harnesses therefore explore pinned theorem statements, library versions, proof attempts, failure records, and Lean kernel checks.
+
+These projects also reveal why Snelling treats technical communication as part of invention. An illustration can clarify a geometric construction; a finite certificate can make an abstract assertion tangible; a reproducibility guide can allow another investigator to test the interpretation independently. He has worked across research figures, book production, formal statements, technical explanations, diagrams, software documentation, and curated code packages. The goal is a scientific record that remains intelligible after the original conversation has ended.
+
+### Securing computers, software, and autonomous systems
+
+The security strand of Snelling's research addresses an immediate problem in modern computing: machines increasingly generate recommendations and take actions faster than the people responsible for them can inspect every step. That creates a demand for software that not only detects suspicious activity, but also records why an intervention was proposed and whether the intervention itself was authorized. Snelling has explored that demand across Windows endpoint protection, application integrity, AI-agent governance, defensive telemetry, and preparations for a changing cryptographic landscape.
+
+His **AXEZENTAI Firewall** and **Sentinel** development work concentrates on computers and software operating in a Windows environment. The documented architecture distinguishes a fast path for routine policy checks from a deeper analytical path for uncertain events. The deeper analysis draws on event relationships, timing, localized statistics, and supporting observations. A cognitive-assurance stage challenges initial interpretations before a consequential response is recommended. Rather than assuming that every alert should trigger an aggressive system action, the design considers availability, authorized behavior, reversibility, and the sufficiency of evidence.
+
+The engineering package described for this line includes source and build materials, signed-policy handling, tamper-evident records, a local dashboard, installation procedures, acceptance checks, and recovery or rollback paths. Its default policy is designed to preserve Microsoft Defender and Windows Firewall rather than replace them with an untested all-or-nothing intervention. Earlier concepts such as the **Advanced Cyber-Resistant Defense Matrix** and related protective-shield designs helped articulate the interest in layered security and system resilience. The later Sentinel work gives that interest a more specific software-development expression. These are security-engineering artifacts and research architectures; deployment and independent protection testing depend on the particular environment in which the software is installed.
+
+His AI governance projects address a neighboring but distinct problem: the vulnerability of automated workflows to bad instructions, faulty memory, unapproved tool use, or unsupported conclusions. The **Agent Audit Firewall** examines proposed agent behavior and supporting evidence. The **AI Action Approval Kernel** studies permission checks that stand between advice and execution. The **Prompt Injection Containment Engine** focuses on attempts to redirect an AI through untrusted documents or inputs. The **Agent Memory Integrity Ledger** records modifications to stored context. The **LLM Truth Label Gateway**, **Hallucination Receipt Scorer**, and **AI Workflow Replay Recorder** organize claims, evidence, and the history of a decision; the **Model Drift Observability Engine** and **Enterprise AI Policy Compiler** consider behavioral change and the translation of written rules into enforceable checks.
+
+What connects these efforts is their practical specificity. A computer can be protected against unauthorized changes to system state. A software workflow can demand approval before modifying files or making a network request. An AI-generated conclusion can carry a record of the sources and tests supporting it. A stored memory can be checked for alterations. Snelling's security program investigates these separate vulnerabilities rather than treating “cybersecurity” as a single undifferentiated technology.
+
+One particularly forward-looking thread concerns the transition toward **post-quantum cryptography**. As organizations assess cryptographic algorithms that might be vulnerable to future quantum computing, they must first know where those algorithms are used. Snelling's **AXZ PQC Migration Readiness Scanner** targets code and configuration references associated with RSA and elliptic-curve cryptography and organizes findings for migration review. The **Post-Quantum Cryptographic Blinding Ledger** examines assessment records involving cryptographic migration, side-channel exposure, and implementation questions. His software supply-chain work, including **SBOM Risk Reduction** concepts, addresses dependency visibility, software inventories, and the integrity of release artifacts.
+
+These projects do not rely on claiming immunity from every attack. Their relevance is more measurable: inventories can expose dependencies, policy records can be checked, warnings can be linked to underlying evidence, and proposed changes can be evaluated before they reach a live computer. Snelling's contributions to this field are best characterized as development of security architectures, review tools, and reproducible procedures for endpoint systems, AI workflows, and cryptographic preparedness.
+
+### Networks, large-scale computation, and photonic architectures
+
+The enormous logical spaces contemplated by NODES also shaped Snelling's interest in more efficient computational infrastructure. In **AXEZENT LinkOS**, he investigated topology-aware telemetry and routing intelligence for large networks and future computing systems. A documented development line includes a 100-node simulator and a virtual-address benchmark spanning 67,108,864 modeled states. The project considers congestion, energy and thermal pressures, network topology, and possible photonic-electronic interconnects. The distinction between a virtual benchmark and millions of fabricated optical nodes is fundamental to describing this work accurately.
+
+The broader **Photonic Intelligence** program explores how optical signals, switching structures, routing decisions, and computational resource management could interact. **Resonance SRC** considers a different architectural possibility: deterministic symbolic compilation using graph rewriting, algebraic simplification, scheduling, and verification. Related designs explore whether portions of such workloads could be mapped to electronic accelerators or possible photonic execution frameworks, subject to implementation and measurement. These studies connect Snelling's mathematical interest in representation to an engineering question: what form should a computation take before it is assigned to physical hardware?
+
+His research portfolio extends to **quantum-error architectures**, **neuromorphic edge observability**, and other exploratory computing systems. Some of these projects emphasize diagnosing state changes, others on software monitoring or specialized models of information flow. They share an interest in architectures that can measure and explain how a computation evolves, but each involves distinct technical assumptions. A speculative hardware model, a working software simulator, and a production computing device occupy different stages of development.
+
+### Scientific investigations: light, phase, and matter
+
+Scientific instrumentation introduces a demanding test of the boundary between model and observation. A program can produce an internally consistent calculation while an instrument records something quite different; calibration, noise, physical symmetry, and experimental conditions determine whether the two can be reconciled. Snelling's work with laboratory-oriented proposals repeatedly concentrates on that boundary. He has analyzed published scientific problems and prepared computational pre-studies, diagnostic software, mathematical derivations, and experimental suggestions for further assessment by research groups, without making an institutional affiliation part of his identity.
+
+A particularly detailed example concerns **nonlinear optical metasurfaces**: engineered structures that shape the interaction of light with matter. In one line of inquiry, Snelling examined a quantum-well metasurface whose nonlinear optical response depends strongly on incidence angle. He asked whether reversing a small incidence angle might change the *complex phase* of an emitted second-harmonic field even when ordinary intensity measurements appeared symmetric. Intensity reveals the magnitude of an optical response, but it can conceal sign and phase information crucial to understanding interference.
+
+The resulting work did not merely propose looking again at a spectrum. It framed a phase-resolved comparison at positive and negative angles, analyzed even and odd components of the emitted response, and considered the role of reciprocal coupling channels and common-phase references. It also developed an experimental route using interferometric measurement and distinguished analytical symmetry predictions from full-wave reconstruction and measurements on a fabricated device. The potential implications—phase-sensitive optical pixels, beam shaping, switching, or angular sensing—depend on what those physical tests establish. As a scientific proposal, the work is notable for identifying a measurement that could separate two interpretations that intensity alone cannot distinguish.
+
+Another investigation, **AXEZENT-ABX-001**, addresses oscillatory signatures in quantum transport. Snelling studied whether neighboring complex Fourier sidebands from an Aharonov–Bohm-type measurement could be compared through a ratio that is insensitive to certain calibration transformations. The research derives a reduced-model closure condition for three sideband coefficients and considers how a departure from that condition could signal more complicated behavior than a single repeated-path model. The accompanying analysis code, versioned research packages, and synthetic stress tests explore noise, spacing, field span, and weak-signal sensitivity. The study's tested numerical examples use modeled or synthetic data; a conclusion about a physical sample requires original laboratory measurements.
+
+The significance of these two optical and quantum-transport programs is not a claim of confirmed new matter or an unmeasured physical effect. It is the development of *discriminating tests*. Each asks what observation would be capable of telling two plausible mechanisms apart. That is a more exact and useful scientific contribution than merely naming a phenomenon and announcing an interpretation.
+
+Snelling's **microscope analysis** projects pursue a related aim in scientific imaging and measurement. Their software and control-integration concepts study drift, timing variation, signal noise, optical stability, observation logs, and instrument metadata. If a small feature appears to change, is the cause in the specimen or in the acquisition system? A reproducible log and a calibrated analysis procedure can make that question more tractable. Work associated with microscope intelligence, analysis, and control integration proposes methods for converting raw instrument records into reviewable diagnostic information.
+
+His **LightBreaker** and **nano-optical sensor-array** ideas extend the optical interest into proposed sensing and imaging devices. Related concept studies consider nanoscale structures, optical response, signal discrimination, and the possibility of compact detection architectures. Their importance lies in the questions they open about optical design and engineering feasibility. Physical sensitivity, fabrication tolerance, environmental stability, and measurement reproducibility would ultimately determine what such a sensor could do.
+
+### Chemistry, physical modeling, and the design of experiments
+
+Snelling's investigations are not limited to electronics or optical measurement. In **computational chemistry**, he examined how the choice of an electronic reference state can radically affect the reliability of an otherwise sophisticated calculation. A proposed study involving the chromium dimer asked whether the difference between Hartree–Fock and Kohn–Sham reference descriptions could be resolved into a small number of identifiable occupied-orbital rotations. The proposal used principal angles between orbital subspaces, connected them to difference-density analysis, and suggested exhaustively testing subsets of the most significant repair directions.
+
+That design is conceptually precise. Instead of assuming that a complex change in electron density has a simple cause, it sets up a finite experiment to find out. It proposes preserving valid determinant projectors along the transformation, separating deep-core from chemically active contributions, defining success criteria in advance, and recording convergence, energetic accuracy, and stability across a potential-energy curve. The object is a testable account of *which portions of a reference change matter*, not a claim to have supplied previously unmeasured chemical results.
+
+His **Rare-Event Reduction Engine** considers simulated particle-decay reconstruction and the differentiation of candidate events from background signals. Broader physics modeling work has considered spectral behavior, multiscale interactions, stochastic structure, topology, and analysis of scientific anomalies. Space-science and aerospace-adjacent proposals examine recorded mission or solar-observation data, classification of unusual signatures, and computational strategies for directing further investigation. These are research and analysis concepts; the subjects range from laboratory-scale physics to larger technological systems, while the methods remain tied to declared measurements and models.
+
+The portfolio also contains **electrochemical-reactor** and material-interface concepts, alongside proposals addressing charge transport, extraction, and system efficiency. What makes such studies viable is the same empirical discipline required in photonics and chemistry: the proposed configuration must be translated into physically meaningful parameters, compared with relevant prior art, and subjected to measurements capable of supporting or rejecting its mechanism. Snelling's work at this interface is an exploration of that design space.
+
+### Engineering the body, materials, and physical structures
+
+In engineering, Snelling has moved from abstract geometry toward designs intended to be understood through forces, deformation, tolerance, and fabrication. His **Sphere-in-Box**, **AXZ cube**, **Triangle Axe**, **graded lattice**, and **nano-gap** studies explore how spatial structure can influence material use, clearance, stiffness, and strength-to-weight behavior. Research into one-piece tower geometries, printable assemblies, and architectural concepts similarly examines whether a carefully arranged internal structure can alter a physical object's performance without simply adding more material.
+
+The connection to his mathematics is unusually direct. A geometric constraint may be expressed as a symbolic law, explored through computer-aided modeling, converted into a printable form, and then assessed for the loads and failure modes a physical application would encounter. The progression is from mathematical geometry to an engineering hypothesis; laboratory testing and applicable design standards determine the ultimate performance of a specific structure. Snelling has also explored concepts in resonant and vibration-control geometry, modular construction, and additive manufacturing.
+
+His **PhotonMax Solar** proposal investigates possible hybrid arrangements for improving the interaction of light, materials, and charge transport in a photovoltaic device. Here the engineering questions are concrete: which layers absorb the useful spectrum, how do interfaces affect carrier transport, what materials are compatible, and what failure mechanisms could appear under heat, moisture, or prolonged operation? The project records a solar-energy design concept with questions for materials and device evaluation, not a certified commercial efficiency claim.
+
+Another exploratory consumer-product direction considers compact atmospheric-water collection, evaluated in terms of humidity, energy consumption, and achievable water yield rather than as a limitless water source.
+
+In biomechanical engineering, **SpineZero-X** examines passive exosuit load paths and the interpretive limitations of torque measurements. A key modeled result shows how two simplified configurations can generate the same support-torque history while imposing different cable forces. This makes independent force measurement and parameter identifiability central design questions. The accompanying research software explores parameter variation, tolerance-aware comparisons, bench-data analysis, repeat-trial statistics, and measurement provenance.
+
+The project is an example of how mathematical modeling can improve a physical research protocol before a clinical or wearable-device conclusion is attempted. It suggests what should be measured to distinguish otherwise similar mechanisms and how variations in stiffness, damping, moment arm, or slack affect modeled behavior. Its synthetic studies do not represent tests on human subjects or certification of a wearable intervention. They provide a structured basis for designing subsequent experiments.
+
+Related biomedical research concepts include **BioGate**, which organizes experimental timing, biomarker measurements, and the interpretation of sequences of observations, as well as studies connected to brittle-bone conditions and possible response-monitoring strategies. These projects lie in the domain of modeled biological questions and research instrumentation rather than established medical treatments. Their presence in the portfolio reflects Snelling's sustained interest in applying computational structures to complex biological evidence.
+
+Beyond specialized research, his invention work includes consumer and workshop-oriented ideas: practical mechanical accessories, modular assemblies, manufacturing aids, and exploratory devices such as compact atmospheric water-harvesting concepts. These projects vary widely in engineering detail. Their inclusion expresses the range of problems he has considered, while the evaluation of materials, water yield, energy consumption, manufacturability, and safety remains specific to each proposed design.
+
+### Translating mathematical structure into commercial software
+
+Some of Snelling's most directly applied work takes technical questions out of the research manuscript and into operational settings where cost, uncertainty, and documentation determine whether a result is useful. **AXEZENT Foundry Replayer** develops a reviewable record for manufacturing invoices and nonrecurring-engineering charges. **VARE Rail Review** applies explicit arithmetic and interval rules to railroad-related billing questions. Both address a familiar organizational problem: when a charge or adjustment is questioned, the calculation should be reconstructible from source records rather than left to an opaque conclusion.
+
+The **AXEZENT Robust Shortest-Path Verifier** examines routes under permitted variations in edge costs. Instead of reporting only a single nominal shortest path, it studies whether the selected path maintains the required optimality property across an uncertainty model. The work connects classical optimization techniques, mathematical certificates, and reproducible calculation to logistics and network-routing decisions. This is a particularly clear example of Snelling's preference for software that can explain what property of an answer it checks.
+
+Other small, purpose-built optimization and verification artifacts in the research record address material purchasing and cutting plans, flexible electricity scheduling, assignments, tolerances, change-point detection, break-even decisions, and least-cost coverage selection. These tools—identified in working materials by names such as **StockCut-Cert**, **PeakShift-Cert**, **AssignCert**, **ToleranceGuard-Cert**, **SegmentProof-Cert**, **BreakEven-Cert**, and **CoverageCert**—show a repeated effort to identify bounded decisions for which an exact or independently checked computation can be packaged into a usable business instrument. Each problem has its own input contract and acceptance conditions; they should be judged through those concrete functions rather than a general promise of automatic business intelligence.
+
+In a different software category, **HyperFlow** examines Windows responsiveness using baseline measurements, monitoring, and regression analysis. **AXZ SkyGrid** explores defensive telemetry and review of anomalous activity. These projects connect Snelling's interest in performance with the more general question of system observability: what happened, under which conditions, and how can a reviewer distinguish a persistent trend from a misleading fluctuation?
+
+The wider software and modeling archive also includes **forecasting and decision-support concepts** for markets and digital assets. In those studies, Snelling considered liquidity, macroeconomic indicators, regulation, trading flows, and changes in market structure as possible inputs to a structured assessment. The work belongs to research into modeling uncertainty and organizing decision evidence, rather than to an established record of guaranteed predictive performance. Its inclusion underscores that his interest in computational reasoning extends from exact mathematical problems to applied questions where the data are inherently incomplete.
+
+This practical software work also explains a dimension of his entrepreneurial interests. Snelling has explored ways to package code, evidence, and user instructions into products people can operate without needing to become developers themselves. That concern appears in local launchers, browser interfaces, offline workflows, installation guides, test suites, and product documentation. For him, a useful technical artifact must eventually make sense to the person expected to run it.
+
+### Sound, performance, and the architecture of musical experience
+
+Under the name **AXEZENT**, Snelling has developed a creative identity in rap, hip-hop production, and instrumental composition. His musical work includes underground and battle-oriented material, club-focused tracks, regional hip-hop styles, orchestral compositions, and cinematic sound design. He has described taking part in concert programs that featured established hip-hop performers, including Rappin' 4-Tay and, on another occasion, Mack 10 and Glasses Malone. Those appearances are included as his account of his performance history rather than as independently documented concert credits.
+
+Music introduces a different kind of evidence: the experience of listening. Snelling's production discussions reveal close attention to microtiming, the interplay of high and low frequencies, bass impact, spatial movement between left and right channels, orchestral color, and the relationship between a vocal phrase and the instrumental structure beneath it. His preferences extend from forceful club rhythms to cinematic string writing and striking high-register timbres. The objective is not merely technical complexity. It is an arrangement whose emotional effect remains convincing to an audience.
+
+This interest has led to **AXZ PureTone**, a software-oriented audio project that explores synthesis, deterministic MIDI, just intonation, web-based interfaces, and digital-audio plugin development. Work on production tools and musical composition supports a productive dialogue between two sides of his practice: the ear determines what should happen; software makes particular experiments repeatable or easier to refine. He has also examined stereo psychology and psychoacoustics as aspects of production design, applying timing and frequency choices to the listener's experience rather than treating sound as an abstract data stream.
+
+His recorded and planned hip-hop catalog includes the songs **“I Got a Legendary Flow,” “Club Music,”** and **“Gotta Get That Cash Up.”** The **AXEZENT Beats for Sale** initiative organizes a planned fifty-beat catalog, regional stylistic concepts, and an on-page listening experience connected with licensing or ownership inquiries. This is both a music project and an example of his interest in connecting a creative product to its delivery software. Catalog planning, works in production, and finished recordings are distinct stages in the project record.
+
+In the orchestral field, Snelling has developed **The Radiant Atlas**, a classical and cinematic album project built around dramatic texture, melodic contrast, and expressive pacing. These musical directions may sound far removed from inverse Cartan matrices or software policy engines. Yet both involve sensitivity to structure: the relationship between elements, the importance of timing, and the difference between an arbitrary combination and a coherent design. That connection does not reduce artistic judgment to an algorithm. It shows how a technically minded creator can move fluently between formal systems and perceptual composition.
+
+His creative interests also extend to science-fiction storytelling and visual concepts. Treatments including **Celestial Code**, **Quantum Veil: The Hidden Dimension**, and **Temporal Paradox** explore discovery, technological power, and the consequences of new knowledge through fictional narratives. The recurring themes mirror questions that appear in his research, though fiction allows them to unfold through human choices and dramatic consequences rather than formal proofs.
+
+He has also explored **educational entertainment and animated storytelling**, considering original characters and motion-led learning experiences for children. These ideas extend his creative work beyond recorded music into how imagery, sound, narrative, and interactivity might support attention and early learning. They are described as creative development concepts rather than completed television productions.
+
+His wider creative record includes the **AI Advanced Frequencies** media project, reflecting an additional interest in presenting sound and frequency-oriented material through digital channels.
+
+Snelling also enjoys **palm reading**, or palmistry, as a personal practice involving symbols, interpretation, and conversation. In a biography that otherwise describes laboratories, mathematical manuscripts, and computer programs, this interest belongs as part of the fuller human portrait. It illustrates the breadth of his curiosity without presenting symbolic palm interpretation as a scientific predictive method.
+
+### The independent researcher and the public record
+
+Snelling's work occupies an uncommon position between exploratory invention, software development, mathematical investigation, and independent technical publishing. He has pursued problems associated with academic research and industry engineering, prepared technical reports for consideration by outside research groups, and organized selected projects as public repositories. Those activities are substantive aspects of his research history, but the identity of a particular recipient or institution is less important to the biography than the problem he studied and the quality of the materials he developed.
+
+The university-facing proposals demonstrate the scope of that engagement. In photonics, he asked whether optical phase measurements could reveal information invisible to intensity measurements. In quantum transport, he proposed a diagnostic robust to specified calibration transformations for oscillatory sidebands. In quantum chemistry, he designed a finite search for the minimal electronic-reference change needed to improve a difficult calculation. In biomechanics, he developed mechanical software to distinguish matching torque from matching force. The common feature is not the status of the organization receiving the work; it is the effort to translate an interpretation into a test another group could perform.
+
+The public software record provides another route into the portfolio. Under the GitHub identity **shawncalvinsnelling**, Snelling has organized repositories spanning proof certificates, mathematical manuscripts, agent controls, software-security analysis, sound tools, scientific computing, industrial review systems, and creative applications. The repository titles supply useful landmarks; the files, tests, and supporting documentation supply the substance. His work is especially recognizable where a research question has become a reproducible package with declared inputs and outputs.
+
+The intellectual range is substantial. It includes mathematics and mathematical physics; formal methods and software engineering; AGI, ACI, and ASI architectural research; Windows endpoint defense and AI governance; post-quantum cryptographic-readiness analysis; scientific instrumentation; optics and quantum transport; computational chemistry; material structures and additive manufacturing; energy devices; biomedical and biomechanical modeling; industrial optimization; commercial software; music technology; rap and orchestral composition; film concepts; and symbolic arts. What makes the record intelligible is not the number of subjects, but their recurrence around common engineering and analytical questions.
+
+For Snelling, knowledge is not simply information accumulated. It becomes more valuable when its relationships can be named, its assumptions can be inspected, its implications can be tested, and its results can be carried into a form that someone else can understand or use. That belief connects the most abstract mathematical projects to his more practical software tools and his creative work.
+
+### A life of connected inquiries
+
+There is no single credential, laboratory, product category, or artistic genre that captures the full arc of Shawn Calvin Snelling's work. He has assembled a body of writing, source code, proposed experiments, mathematical certificates, engineering models, and original music that reflects an independent approach to intellectual work. Its breadth is both its defining strength and its challenge as a biographical subject: the individual projects only begin to make sense when the reader understands the questions connecting them.
+
+Those questions are demanding but concrete. Can an enormous mathematical search be represented more intelligently without losing an essential case? Can the evidence behind an AI-generated conclusion be replayed? Can computer defenses distinguish uncertainty from danger without introducing a second kind of risk? Can an optical phase measurement expose a hidden symmetry? Can a mechanical model reveal what a torque trace alone does not measure? Can technical control over sound serve a more compelling artistic performance?
+
+Snelling has approached these questions through distinct tools, from exact arithmetic and formal proof systems to source-controlled software, experimental proposals, structural models, and music production. He has not treated intellectual ambition as limited to one medium. In his work, an equation can suggest a verification engine; a scientific observation can inspire a diagnostic; a software constraint can become a product; and an arrangement of sound can become both a composition and an experiment in perception.
+
+**The central portrait is of an independent creator who repeatedly turns curiosity into structured inquiry.** His legacy as a researcher, inventor, programmer, and musician rests most convincingly in the particular works that readers can study, hear, test, debate, and build upon—and in the sustained effort to connect ideas that are too often kept apart.
 
 ---
 
-# Flagship Public Repositories
-
-## AXZ Research Atlas
-
-Public research atlas, truth ledger, candidate lemmas, finite verification artifacts, receipts, and documentation.
-
-Repository:
-
-https://github.com/shawncalvinsnelling/axz-research-atlas
-
-Website:
-
-https://shawncalvinsnelling.github.io/axz-research-atlas/
+*Selected public research archive: [github.com/shawncalvinsnelling](https://github.com/shawncalvinsnelling). The biography describes the technical and creative record as documented in manuscripts, project materials, software repositories, and research proposals; descriptions of software tests, mathematical results, and experimental hypotheses refer to their stated scope.*
 
 ---
 
-## AXZ Defect Homology Theory
+## Technical Research and Public Artifact Index
 
-Finite proof-audit framework for defect homology, obstruction classes, nano-gap stability, and replayable receipts.
+The full biography above is the narrative account. This directory is the practical companion: a reader who wants to inspect a specific implementation, proof certificate, or research paper can proceed to its corresponding source repository. These links are selected for coverage across distinct areas rather than for the number of projects listed.
 
----
+### Mathematical research, proofs, and finite certificates
 
-## AXZ CSL Kernel
+**Representation theory and root-system mathematics:** [Higher-Lie master index](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-Research-Program) · [R4](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-R4-Exact-Family) · [R6](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-R6-Hook-Unimodality) · [R8](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-R8-Log-Concavity) · [R12](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-R12-Log-Concavity) · [R16](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-R16-Log-Concavity) · [4Z](https://github.com/shawncalvinsnelling/AXEZENT-Higher-Lie-4Z-Log-Concavity) · [Six-Cycle Hook-Unimodality](https://github.com/shawncalvinsnelling/AHR-Six-Cycle-Hook-Unimodality) · [Type-C exact-κ](https://github.com/shawncalvinsnelling/axezent-opac016-type-c-exact-kappa) · [OPAC-018 Green–Schur Bridge](https://github.com/shawncalvinsnelling/axezent-opac018-green-schur-bridge).
 
-Open-source verification kernel for finite sparse-state trace replay.
+**Finite combinatorics and formal certificates:** [Verified Mathematics Atlas](https://github.com/shawncalvinsnelling/AXEZENT-AI-Verified-Mathematics-Atlas) · [Graph Ramsey R(3,3)](https://github.com/shawncalvinsnelling/AXEZENT-AI-Graph-Ramsey-R33) · [Schur Number S(3)](https://github.com/shawncalvinsnelling/AXEZENT-AI-Schur-Number-S3) · [van der Waerden W(2,3)](https://github.com/shawncalvinsnelling/van-der-Waerden-W23) · [Schur–Green Local Certificate](https://github.com/shawncalvinsnelling/AXEZENT-AI-Schur-Green-Local-Certificate) · [Defect Homology](https://github.com/shawncalvinsnelling/axz-defect-homology-theory).
 
-Public scope:
+**Arithmetic and sequence certificates:** [Forward decimal](https://github.com/shawncalvinsnelling/AXZ-Forward-NoDivision-0123456789) · [Reverse decimal](https://github.com/shawncalvinsnelling/AXZ-Reverse-NoDivision-9876543210) · [Hexadecimal](https://github.com/shawncalvinsnelling/AXZ-Hexadecimal-Base16-Ring-V1) · [Palindromic byte](https://github.com/shawncalvinsnelling/AXZ-Palindromic-Byte-12488421) · [Fibonacci](https://github.com/shawncalvinsnelling/AXZ-Fibonacci-Digit-1123581321) · [Factorial](https://github.com/shawncalvinsnelling/AXZ-Factorial-Digit-12624120) · [Square](https://github.com/shawncalvinsnelling/AXZ-Square-Digit-149162536) · [Cube](https://github.com/shawncalvinsnelling/AXZ-Cube-Digit-182764125) · [Triangular](https://github.com/shawncalvinsnelling/AXZ-Triangular-Digit-136101521) · [Pentagonal](https://github.com/shawncalvinsnelling/AXZ-Pentagonal-Digit-1512223551) · [Hexagonal](https://github.com/shawncalvinsnelling/AXZ-Hexagonal-Digit-1615284566).
 
-Finite trace replay under declared local laws.
+**Verification methods and research communication:** [CSL](https://github.com/shawncalvinsnelling/axz-csl-kernel) · [CTR](https://github.com/shawncalvinsnelling/axezent-ai-ctr-kernel) · [Poly-Reduce Kernel](https://github.com/shawncalvinsnelling/axezent-ai-poly-reduce-kernel) · [PRK Fuzzer](https://github.com/shawncalvinsnelling/axezent-ai-prk-fuzzer) · [ReceiptCI](https://github.com/shawncalvinsnelling/AXZ-ReceiptCI) · [ReceiptRail AI](https://github.com/shawncalvinsnelling/ReceiptRail-AI) · [Library of Verified Things](https://github.com/shawncalvinsnelling/axezent-library-of-verified-things) · [Detector-Gated Dirichlet Polynomials](https://github.com/shawncalvinsnelling/AXEZENT-Detector-Gated-Dirichlet-Polynomials).
 
-Truth boundary:
+### Computer security, AI governance, and cryptography
 
-Does not claim P = NP, RH, universal compression, or global correctness of external solvers.
+**Defensive AI and policy control:** [Agent Audit Firewall](https://github.com/shawncalvinsnelling/AXZ-Agent-Audit-Firewall) · [AI Action Approval Kernel](https://github.com/shawncalvinsnelling/AXZ-AI-Action-Approval-Kernel) · [Prompt Injection Containment Engine](https://github.com/shawncalvinsnelling/AXZ-Prompt-Injection-Containment-Engine) · [Agent Memory Integrity Ledger](https://github.com/shawncalvinsnelling/AXZ-Agent-Memory-Integrity-Ledger) · [LLM Truth Label Gateway](https://github.com/shawncalvinsnelling/AXZ-LLM-Truth-Label-Gateway) · [Hallucination Receipt Scorer](https://github.com/shawncalvinsnelling/AXZ-Hallucination-Receipt-Scorer) · [Workflow Replay Recorder](https://github.com/shawncalvinsnelling/AXZ-AI-Workflow-Replay-Recorder) · [Model Drift Observability Engine](https://github.com/shawncalvinsnelling/AXZ-Model-Drift-Observability-Engine) · [Enterprise AI Policy Compiler](https://github.com/shawncalvinsnelling/AXZ-Enterprise-AI-Policy-Compiler).
 
----
+**Cryptographic and supply-chain readiness:** [PQC Migration Readiness Scanner](https://github.com/shawncalvinsnelling/AXZ-PQC-Migration-Readiness-Scanner) · [Post-Quantum Cryptographic Blinding Ledger](https://github.com/shawncalvinsnelling/AXZ-Post-Quantum-Cryptographic-Blinding-Ledger) · [SBOM Risk Reduction Engine](https://github.com/shawncalvinsnelling/AXZ-SBOM-Risk-Reduction-Engine).
 
-## AXZ ReceiptCI
+### Scientific computing, engineering, business software, and the arts
 
-Deterministic CI receipt engine that verifies tests, hashes artifacts, and emits reproducible JSON release certificates.
+**Measurement, photonics, and scientific modeling:** [AXEZENT-ABX-001](https://github.com/shawncalvinsnelling/AXEZENT-ABX-001) · [Photonic Intelligence](https://github.com/shawncalvinsnelling/shawncalvinsnelling-AXZ-Photonic-Intelligence) · [LinkOS](https://github.com/shawncalvinsnelling/AXEZENT-LinkOS) · [Microscope Analysis](https://github.com/shawncalvinsnelling/AXZ-Microscope-Analysis) · [SCS Microscope Intelligence Engine](https://github.com/shawncalvinsnelling/SCS-Microscope-Intelligence-Engine) · [Rare-Event Reduction Engine](https://github.com/shawncalvinsnelling/shawncalvinsnelling-SCS-Rare-Event-Reduction-Engine) · [SkyGrid](https://github.com/shawncalvinsnelling/AXZ-SkyGrid) · [Resonance SRC](https://github.com/shawncalvinsnelling/resonance-src).
 
----
+**Commercial and industrial systems:** [Robust Shortest Path Verifier](https://github.com/shawncalvinsnelling/AXEZENT-Robust-Shortest-Path-Verifier) · [Foundry Replayer](https://github.com/shawncalvinsnelling/AXEZENT-Foundry-Replayer) · [VARE Rail Review](https://github.com/shawncalvinsnelling/vare-rail-review) · [AI Runtime Observability and Stabilization](https://github.com/shawncalvinsnelling/AI-Runtime-Observability-and-Stabilization-Platform).
 
-## AXZ Library of Verified Things
+**Music and creative technology:** [Beats for Sale](https://github.com/shawncalvinsnelling/AXEZENT-Beats-for-Sale) · [PureTone Bridge VST3](https://github.com/shawncalvinsnelling/AXZ-PureTone-Bridge-VST3) · [AI Advanced Frequencies](https://github.com/shawncalvinsnelling/AIAdvancedFrequencies).
 
-Open-core receipt verification dashboard for finite AI, software, mathematics, and research claims.
+For the complete and changing public catalog, see [all repositories](https://github.com/shawncalvinsnelling?tab=repositories). A listed repository documents a project; exact capabilities, readiness, and proof scope are established by that project's content rather than by its title.
 
----
+## Research Integrity and Evidence
 
-# Public Exact Finite Certificate Repositories
+The research portfolio uses an explicit distinction between a mathematical proof, an exact finite result, an implemented software test, an experimental proposal, a physical prototype, and a product concept. The AXZ Research Atlas publishes project-local evidence and classifications to help a reader understand those differences. This principle allows an ambitious archive to remain intellectually serious: descriptions retain the technical specificity of the work without turning exploratory research into unsupported claims of commercial certification, laboratory measurement, or a universal mathematical theorem.
 
-These repositories publish exact finite verification artifacts with explicit bounded scope.
+The complete biography was assembled from the project manuscripts and technical descriptions available through November 2026, together with the author's reported background and creative record. Researchers and journalists seeking to evaluate a specific claim should follow the corresponding manuscript, repository, and reproducibility materials. Personal history and performance details may require additional independent corroboration.
 
-## Ordered Digit / Arithmetic Certificates
+## Contact and Collaboration
 
-* AXZ-Forward-NoDivision-0123456789
-* AXZ-Reverse-NoDivision-9876543210
-* AXZ-Hexadecimal-Base16-Ring-V1
-* AXZ-Palindromic-Byte-12488421
-* AXZ-Asymptotic-Gap-Frontier-V1
+**GitHub:** [github.com/shawncalvinsnelling](https://github.com/shawncalvinsnelling)  
+**Research Atlas:** [github.com/shawncalvinsnelling/axz-research-atlas](https://github.com/shawncalvinsnelling/axz-research-atlas)  
+**Research Website:** [shawncalvinsnelling.github.io/axz-research-atlas](https://shawncalvinsnelling.github.io/axz-research-atlas/)  
+**Research and collaboration:** [axezentai@gmail.com](mailto:axezentai@gmail.com)  
+**Complete biography, separate reading file:** [BIOGRAPHY.md](BIOGRAPHY.md)
 
-## Number Sequence Certificates
-
-* AXZ-Fibonacci-Digit-1123581321
-* AXZ-Factorial-Digit-12624120
-* AXZ-Square-Digit-149162536
-* AXZ-Cube-Digit-182764125
-* AXZ-Triangular-Digit-136101521
-* AXZ-Pentagonal-Digit-1512223551
-* AXZ-Hexagonal-Digit-1615284566
-
----
-
-# Research Principles
-
-## No claim without a receipt.
-
-Every public claim should map to a reproducible artifact.
-
-## No finite computation promoted to an infinite theorem without a bridge theorem.
-
-Finite verification is not automatically global proof.
-
-## No solved label without verification.
-
-Truth labels must match evidence.
-
-## No global claim beyond its stated truth boundary.
-
-Research artifacts must clearly distinguish:
-
-```text
-PROVED
-FINITE_PROVED
-CANDIDATE
-BLOCKED
-```
-
----
-
-# Current Truth Posture
-
-```text
-FINITE_VERIFICATION_ATLAS
-
-PROVED:
-    finite receipts
-    algebraic reductions
-    deterministic modular counts
-    repository artifacts
-
-CANDIDATE:
-    research-stage lemmas
-    obstruction theories
-    open problem investigations
-
-BLOCKED:
-    unsupported global claims
-    unverified theorem claims
-    infinite conclusions without bridge theorems
-```
-
----
-
-# What I Build
-
-I create public research-stage systems that combine:
-
-* Mathematical reduction
-* Finite verification
-* Exact certificate generation
-* Reproducibility workflows
-* Trace replay
-* Source auditing
-* Evidence-chain logic
-* Receipt-backed releases
-* GitHub-ready research packages
-
----
-
-# Contact
-
-GitHub:
-
-https://github.com/shawncalvinsnelling
-
-Research Atlas:
-
-https://github.com/shawncalvinsnelling/axz-research-atlas
-
-Research Website:
-
-https://shawncalvinsnelling.github.io/axz-research-atlas/
-
-Collaboration:
-
-[axezentai@gmail.com](mailto:axezentai@gmail.com)
+*Shawn Calvin Snelling · AXEZENT · AXZENTAI Research — a continually developing record of mathematics, science, software, invention, and original creative work.*
